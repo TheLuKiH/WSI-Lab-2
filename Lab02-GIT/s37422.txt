@@ -1,1 +1,2 @@
-Name: {Łukasz Hryniów}
+Name: Łukasz Hryniów
+University: PJATK
